@@ -9,6 +9,7 @@ function NewInput(props) {
   const [body, setBody] = useState("fcgh");
   const [loading, setLoading] = useState(false);
   const [flag, setFlag] = useState(false);
+  
   //const titleRef=useRef(null)
   //const bodyRef=useRef(null)
 
